@@ -6,3 +6,5 @@ Add a New Student: Create and manage new student profiles.
 Enroll in Courses: Enroll students in various courses.
 View Balance: Check the current balance of students.
 Pay Fees: Process fee payments for students.
+TO Experience this Project Run the following command: **npx code-with-owais-cli-student-management-system
+**
